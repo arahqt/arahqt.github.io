@@ -17,6 +17,18 @@ With its simple and intuitive interface, users can quickly specify the desired s
 <br><br>
 
 ---
+## A Machine Learning Model for Predicting Normal and Recession Regimes in US Economy
+
+<p align="left">
+Predicting recessions holds vital significance for policymakers, businesses, and investment professionals. In this project, we have developed machine learning models designed to forecast recessions within the US economy. These models utilize a diverse array of macroeconomic indicators. Our approach adheres to the DM CRISP methodology, encompassing various stages except for the deployment phase. Ultimately, we have provided an interpretation of the selected model, enhancing its accessibility for potential users.
+</p>
+
+<center><img src="/images/recession_prob.png"></center>
+<center><img src="/images/feat_impo.png"></center>
+
+<br><br>
+
+---
 ## Professional Certificates
 
 <p align="left">
