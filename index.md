@@ -1,7 +1,6 @@
 # Selected Projects in Data Science and Finance
 ---
-## finpy-tse
-### A Python Package to Access Tehran Stock Exchange Historical and Real-Time Data
+## finpy-tse: A Python Package to Access Tehran Stock Exchange Historical and Real-Time Data
 
 <p align="left">
 This open-source project is a powerful and user-friendly Python package designed for financial professionals and data scientists to effortlessly download up-to-date data from the Tehran Stock Exchange (TSE). The package includes robust data validation and cleaning mechanisms to ensure the accuracy and reliability of the acquired data.
