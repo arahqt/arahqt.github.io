@@ -17,7 +17,7 @@ With its simple and intuitive interface, users can quickly specify the desired s
 <br><br>
 
 ---
-## PyFedWatch: An Open-Source Python Package for Accurately Estimating Implied Probabilities of Federal Funds Rate Changes
+## PyFedWatch: A Python Package for Accurately Estimating Implied Probabilities of Federal Funds Rate Changes
 
 <p align="left">
 PyFedWatch is a meticulously crafted open-source Python package designed to precisely calculate implied probabilities concerning potential adjustments in the Federal Reserve's target federal funds rate. This tool leverages Fed Fund futures prices to compute these probabilities specifically for forthcoming FOMC meetings. Notably, the methodology implemented in PyFedWatch is distinct from the one publicly available on the CME website, producing results that align precisely with the numbers displayed on their platform, to ensure the generation of accurate and reliable data for your analysis.
