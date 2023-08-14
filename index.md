@@ -3,10 +3,10 @@
 ## finpy-tse
 ### A Python Package to Access Tehran Stock Exchange Historical and Real-Time Data
 
-<p align="justify">
+<p align="left">
 This open-source project is a powerful and user-friendly Python package designed for financial professionals and data scientists to effortlessly download up-to-date data from the Tehran Stock Exchange (TSE). The package includes robust data validation and cleaning mechanisms to ensure the accuracy and reliability of the acquired data.
 </p>
-<p align="justify">
+<p align="left">
 With its simple and intuitive interface, users can quickly specify the desired symbols and financial indices, along with date ranges and other parameters for data extraction. Furthermore, its Pandas dataframe outputs can be seamlessly integrated with various SQL/NoSQL databases to create a data warehouse, facilitate data analysis, visualization, and utilize ML libraries for inferring insights and developing and evaluating quantitative models to support investment decision-making processes.
 </p>
 
@@ -20,10 +20,10 @@ With its simple and intuitive interface, users can quickly specify the desired s
 ---
 ## Professional Certificates
 
-<p align="justify">
+<p align="left">
 Selected professional certificates demonstrating my skills in the field of Data Science and Machine Learning:
 <ul>
-  <li><<a href="https://www.credly.com/go/21MLbGJc"> IBM Data Science Professional Certificate</a></li>
+  <li><a href="https://www.credly.com/go/21MLbGJc"> IBM Data Science Professional Certificate</a></li>
   <li><a href="https://www.credly.com/go/GBRSgHVj"> IBM Machine Learning Professional Certificate</a></li>
 </ul>
 </p>
