@@ -18,7 +18,12 @@ With its simple and intuitive interface, users can quickly specify the desired s
 <br><br>
 
 ---
-## Professional Certificates in Data Science
-<a href="https://www.credly.com/go/21MLbGJc"> IBM Data Science Professional Certificate</a>
+## Professional Certificates
 
-<a href="https://www.credly.com/go/GBRSgHVj"> IBM Machine Learning Professional Certificate</a>
+<p align="justify">
+Selected professional certificates demonstrating my skills in the field of Data Science and Machine Learning:
+<ul>
+  <li><<a href="https://www.credly.com/go/21MLbGJc"> IBM Data Science Professional Certificate</a></li>
+  <li><a href="https://www.credly.com/go/GBRSgHVj"> IBM Machine Learning Professional Certificate</a></li>
+</ul>
+</p>
