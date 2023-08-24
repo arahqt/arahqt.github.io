@@ -46,7 +46,7 @@ Predicting recessions holds vital significance for policymakers, businesses, and
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
 
-<center><img src="/images/recession_prob.png"></center>
+<center><img src="/images/pred_prob.png"></center>
 <center><img src="/images/feat_impo.png"></center>
 
 <br><br>
